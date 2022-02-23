@@ -1,0 +1,6 @@
+.hero-layout {
+  position: relative;
+
+  max-width: 1440px;
+  margin: 0 auto 80px auto;
+}
