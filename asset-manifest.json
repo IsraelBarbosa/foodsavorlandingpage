@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/foodsavorlandingpage/static/css/main.a9b606db.css",
-    "main.js": "/foodsavorlandingpage/static/js/main.f05ab324.js",
+    "main.js": "/foodsavorlandingpage/static/js/main.3a56a907.js",
     "static/media/heroImg.png": "/foodsavorlandingpage/static/media/heroImg.fc8e74f0ecd6c186d521.png",
     "static/media/heroImg2.png": "/foodsavorlandingpage/static/media/heroImg2.30c73b32ac62bed05585.png",
     "static/media/saveOnGroceries.svg": "/foodsavorlandingpage/static/media/saveOnGroceries.8ebedc82ed2f4f850bc9c41149508646.svg",
@@ -11,10 +11,10 @@
     "index.html": "/foodsavorlandingpage/index.html",
     "static/media/menuIcon.svg": "/foodsavorlandingpage/static/media/menuIcon.9dbc5a3a96ad85a57422263699b1695d.svg",
     "main.a9b606db.css.map": "/foodsavorlandingpage/static/css/main.a9b606db.css.map",
-    "main.f05ab324.js.map": "/foodsavorlandingpage/static/js/main.f05ab324.js.map"
+    "main.3a56a907.js.map": "/foodsavorlandingpage/static/js/main.3a56a907.js.map"
   },
   "entrypoints": [
     "static/css/main.a9b606db.css",
-    "static/js/main.f05ab324.js"
+    "static/js/main.3a56a907.js"
   ]
 }
