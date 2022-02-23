@@ -63,8 +63,8 @@ function Hero() {
           <div className="container-img">
             <img
               className="hero__img"
-              srcSet={`${heroImg2} 563w, ${heroImg} 656w, `}
-              sizes="(max-width: 900px) 563px, (max-width: 1920px) 656px"
+              srcSet={`${heroImg2} 563w, ${heroImg} 656w`}
+              sizes="(max-width: 900px) 563px, (max-width: 1920px) 656px, 656px"
               src={heroImg}
               alt="mulher segurando uma cesta de frutas"
             />
